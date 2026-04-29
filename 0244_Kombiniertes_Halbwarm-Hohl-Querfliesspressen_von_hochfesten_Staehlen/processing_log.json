@@ -1,0 +1,23 @@
+{
+  "project_index": 244,
+  "project_titel": "Kombiniertes Halbwarm-Hohl-Querfließpressen von hochfesten Stählen",
+  "folder_name": "0244_Kombiniertes_Halbwarm-Hohl-Querfliesspressen_von_hochfesten_Staehlen",
+  "documents": [
+    {
+      "url": "https://www.massivumformung.de/llm/fetch_document.php?doc=13-02-08_Ergebnisse_DFG_LI_1556-8-1.pdf",
+      "filename": "status_13-02-08_Ergebnisse_DFG_LI_1556-8-1.pdf",
+      "doc_type": "status",
+      "status": "done",
+      "quality_score": 100,
+      "quality_level": "ok",
+      "quality_notes": [],
+      "error_message": null,
+      "word_count": 3142,
+      "image_count": 8,
+      "table_count": 2,
+      "page_count": 7,
+      "processed_at": "2026-04-22T21:07:20.979640"
+    }
+  ],
+  "last_updated": "2026-04-22T21:07:20.992643"
+}
